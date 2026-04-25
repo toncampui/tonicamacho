@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[3550,["/tonicamacho/_next/static/chunks/0931hgn_jt5uo.js","/tonicamacho/_next/static/chunks/09t2isllljna7.js","/tonicamacho/_next/static/chunks/0d3shmwh5_nmn.js","/tonicamacho/_next/static/chunks/0qktsh345l1e0.js"],"default"]
+3:I[97367,["/tonicamacho/_next/static/chunks/0931hgn_jt5uo.js","/tonicamacho/_next/static/chunks/09t2isllljna7.js","/tonicamacho/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"pt-20","children":["$","$L2",null,{}]}],[["$","script","script-0",{"src":"/tonicamacho/_next/static/chunks/0qktsh345l1e0.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"urNa9rg2a3XMhbh7j-VpN"}
+5:null

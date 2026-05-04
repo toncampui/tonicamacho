@@ -26,9 +26,12 @@ export default function LegalPage() {
                     </section>
 
                     <section>
-                        <h2 className="text-xl font-bold text-white mb-4">2. Data Collection</h2>
+                        <h2 className="text-xl font-bold text-white mb-4">2. Data Collection & Cookies</h2>
+                        <p className="mb-4">
+                            By default, this site does not store your personal data when you browse. We respect your privacy.
+                        </p>
                         <p>
-                            This site is static and does not use cookies for tracking, advertising, or analytics. We do not store your personal data when you browse.
+                            However, if you explicitly give your consent through our cookie banner, we use <strong className="text-white">Google Analytics</strong> to collect anonymous data about web traffic and usage patterns. This helps us understand how visitors interact with the portfolio and improve the user experience. You can always change your cookie preferences by clearing your browser's local storage or cookies for this site.
                         </p>
                     </section>
 

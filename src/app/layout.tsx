@@ -4,6 +4,7 @@ import "./globals.css";
 import SmoothScroll from "./components/SmoothScroll";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
+import CookieBanner from "./components/CookieBanner";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -31,11 +32,15 @@ export default function RootLayout({
       <body
         className={`${inter.variable} ${geistMono.variable} antialiased`}
       >
+        <noscript>
+          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHTMVWGD" height="0" width="0" style={{ display: 'none', visibility: 'hidden' }}></iframe>
+        </noscript>
         <SmoothScroll>
           <Navbar />
           {children}
           <Footer />
         </SmoothScroll>
+        <CookieBanner />
       </body>
     </html>
   );
